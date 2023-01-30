@@ -36,24 +36,11 @@ The 2 items above are not owned by me, They go to there respected owners
 
 
 
-	/* Guild and Top bar transparency */
-	.theme-dark .wrapper-1_HaEi {
-		background:transparent;
-		background-image: var(--transparency-1);
-	}
-	
-	/* transparency for channels and members list and private channels and left side of settings*/
-	.container-1NXEtd, .privateChannels-oVe7HL, .app-3xd6d0 .standardSidebarView-E9Pc3j, .app-3xd6d0 .container-2cd8Mz {
-    		background: transparent;
-    		background-image: var(--transparency-2);
-	}
-	.theme-dark .panels-3wFtMD, .theme-light .panels-3wFtMD {
-    		background: var(--transparency-2);
-	}
+
 
 	
     /* chat and top area and other secondary pages */
-	/* pemberi filter biar ga silau */ /* tambahkan .scrollableContainer-15eg7h  kalau mau lebih terang ,.app-3xd6d0 untuk menggelapkan */
+	/* pemberi filter biar ga silau */ /* tambahkan .scrollableContainer-15eg7h  kalau mau lebih terang , .app-3xd6d0 untuk menggelapkan */
 	.app-3xd6d0 .chat-2ZfjoI, .app-3xd6d0    {
         background: transparent;
         background-image: var(--transparency-3);
