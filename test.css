@@ -155,18 +155,7 @@ The 2 items above are not owned by me, They go to there respected owners
 
 
 		/*Channels*/
-		#app-mount .containerDefault-3tr_sE {
-			background-color: var(--primary3-colour); 
-			height: 30px; text-align: center; 
-			border-radius: 10px; 
-			padding: 5px 5px 0 5px;
-		}
-		#app-mount .container-3w7J-x,
-		#app-mount .activityPanel-28dQGo {
-			background-image: var(--transparency-1); 
-			background-color: rgba(0,0,0,0.5); 
-			margin-bottom: 0;
-		}
+	
 
 		#app-mount .containerDefault-3tr_sE {margin-top: 15px;}
 		#app-mount .unreadBar-3YD_k9 {background-color: var(--primary1-colour);}
