@@ -33,6 +33,7 @@ The 2 items above are not owned by me, They go to there respected owners
 	
 	/* removing backgrounds */
 
+
 	/* Guild and Top bar transparency */
 	.theme-dark .wrapper-1_HaEi {
 		background:transparent;
@@ -40,9 +41,7 @@ The 2 items above are not owned by me, They go to there respected owners
 	}
 	
 	
-	.theme-dark .panels-3wFtMD, .theme-light .panels-3wFtMD {
-		background: var(--transparency-2);
-	}
+
 	/* chat and top area and other secondary pages */
 	.app-3xd6d0 .chat-2ZfjoI, .app-3xd6d0 .scrollableContainer-15eg7h {
 		background: transparent;
