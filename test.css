@@ -36,7 +36,7 @@ The 2 items above are not owned by me, They go to there respected owners
 	/* Guild and Top bar transparency */
 	.theme-dark .wrapper-1_HaEi {
 		background:transparent;
-		background-image: var(--transparency-1);
+		background-image: var(--transparency-2);
 	}
 	
 	/* transparency for channels and members list and private channels and left side of settings*/
