@@ -50,40 +50,14 @@ The 2 items above are not owned by me, They go to there respected owners
 	}
 
 	/* chat and top area and other secondary pages */
+	/* pemberi filter biar ga silau */
 	.app-3xd6d0 .chat-2ZfjoI, .app-3xd6d0 .scrollableContainer-15eg7h {
     		background: transparent;
     		background-image: var(--transparency-3);
 	}
 
 
-	/* removing color from specific class */
-	.panels-j1Uci_ {
-		background-color: transparent;
-	}
-	/* extra for transparency 3 special case */
-	.themeDark-3Ap_7i, .app-3xd6d0 .chat-3bRxxu {
-		background-color: transparent;
-		background-image: var(--transparency-3);
-	}
-	.typeWindows-2-g3UY {
-		background-image: var(--transparency-5);
-	}
-	/* removes margin from top area and adds it to the nav buttons + discord logo */
-	.typeWindows-2-g3UY {
-		height: 21px;
-		margin-top: 0px;
-	}
-	/* removes a border under better discord at channels */
-	.unread-1xRYoj {
-		display:none;
-	}
-	/* fixes */
-	.theme-dark {
-		--background-primary: none;
-		--background-secondary: none;
-		--background-tertiary: none;
-		--background-accent: none;
-	} 
+
 /*--------------------------------------------------------*/
 
 /*Theme Itself*/
