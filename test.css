@@ -54,7 +54,7 @@ The 2 items above are not owned by me, They go to there respected owners
 	
     /* chat and top area and other secondary pages */
 	/* pemberi filter biar ga silau */ /* tambahkan .scrollableContainer-15eg7h  kalau mau lebih terang , .app-3xd6d0 untuk menggelapkan */
-	.app-3xd6d0 .chat-2ZfjoI, .container-3wLKDe .app-3xd6d0 , .app-3xd6d0  {
+	.app-3xd6d0 .chat-2ZfjoI, .app-3xd6d0  {
         background: transparent;
         background-image: var(--transparency-3);
 }
