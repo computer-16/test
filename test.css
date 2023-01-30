@@ -52,6 +52,13 @@ The 2 items above are not owned by me, They go to there respected owners
 	}
 
 	
+    /* chat and top area and other secondary pages */
+	/* pemberi filter biar ga silau */
+	.app-3xd6d0 .chat-2ZfjoI, .app-3xd6d0  {
+        background: transparent;
+        background-image: var(--transparency-3);
+}
+
 
 
 
