@@ -49,7 +49,11 @@ The 2 items above are not owned by me, They go to there respected owners
     		background: var(--transparency-2);
 	}
 
-	
+	/* chat and top area and other secondary pages */
+	.app-3xd6d0 .chat-2ZfjoI, .app-3xd6d0 .scrollableContainer-15eg7h {
+    		background: transparent;
+    		background-image: var(--transparency-3);
+	}
 
 
 	/* removing color from specific class */
