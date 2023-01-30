@@ -36,13 +36,13 @@ The 2 items above are not owned by me, They go to there respected owners
 	/* Guild and Top bar transparency */
 	.theme-dark .wrapper-1_HaEi {
 		background:transparent;
-		background-image: var(--transparency-2);
+		background-image: var(--transparency-1);
 	}
 	
 	/* transparency for channels and members list and private channels and left side of settings*/
 	.container-1NXEtd, .privateChannels-oVe7HL, .app-3xd6d0 .standardSidebarView-E9Pc3j, .app-3xd6d0 .container-2cd8Mz {
 		background: transparent;
-		background-image: var(--transparency-3);
+		background-image: var(--transparency-2);
 	}
 	.theme-dark .panels-3wFtMD, .theme-light .panels-3wFtMD {
 		background: var(--transparency-2);
@@ -164,7 +164,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		#app-mount .container-3w7J-x,
 		#app-mount .activityPanel-28dQGo {
 			background-image: var(--transparency-1); 
-			background-color: rgba(0,0,0,0); 
+			background-color: rgba(0,0,0,0.5); 
 			margin-bottom: 0;
 		}
 
